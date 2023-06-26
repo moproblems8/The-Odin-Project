@@ -8,10 +8,9 @@
 
 .form-signin {
     position: absolute;
-    top: 20%;
-    left: 12%;
-    max-width: 300px;
-    padding: 2rem;
+    top: 12%;
+    left: 10%;
+    max-width: 400px;
 }
 
 input[type=number]::-webkit-outer-spin-button,
